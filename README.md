@@ -2,8 +2,8 @@
 <h3 align="center">🚀 Passionate Software Developer | Java | Spring Boot | Web Technologies</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=therealkishan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/therealkishan?label=Followers" alt="GitHub Followers" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 
 ### 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=therealkishan&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
