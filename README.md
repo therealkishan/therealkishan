@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I am kishan pandey
 - 🔭 I’m currently working on ...Fiancial software system
 - 🌱 I’m currently learning ... java,springboot,spring mvc
-📫 How to reach me: ...email:kishanku960@gmail.com
+-📫 How to reach me: ...email:kishanku960@gmail.com
 <!--
 **therealkishan/therealkishan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
